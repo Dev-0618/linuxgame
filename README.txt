@@ -1,0 +1,3 @@
+Welcome to the Neon Terminal System.
+
+The system has been abandoned, but strange things are still happening...
